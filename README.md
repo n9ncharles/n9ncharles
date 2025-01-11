@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut 👋  
 
-<!--
-**n9ncharles/n9ncharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis [Ton Nom] !  
+Développeur passionné par le code, la technologie, et les nouveaux défis. 🚀  
 
-Here are some ideas to get you started:
+## Mes compétences  
+- **Langages** : Python, JavaScript, HTML/CSS  
+- **Outils** : Git, Docker, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Retrouve-moi :  
+- 🌐 [Mon site web](https://mon-site.com)  
+- 🐦 [Twitter](https://twitter.com/ton_nom)  
+- 💼 [LinkedIn](https://linkedin.com/in/ton_nom)  
+
+## Statistiques GitHub  
+![Mes stats](https://github-readme-stats.vercel.app/api?username=ton_nom_d_utilisateur&show_icons=true&theme=radical)  
