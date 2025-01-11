@@ -13,9 +13,9 @@ Je suis passionné par le développement d'applications modernes et le partage d
 ---
 
 ## 🌐 Retrouve-moi en ligne :  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/nathanael-moussou-15027029a/))  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/ton-lien-instagram](https://www.instagram.com/n9ncharles/))  
-[![Site Web](https://img.shields.io/badge/-Mon_Site_Web-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ton-site-web.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-moussou-15027029a/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n9ncharles/)  
+[![Site Web](https://img.shields.io/badge/-Mon_Site_Web-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 ---
 
