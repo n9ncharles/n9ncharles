@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est **Nathanael** !  
 
 🎯 Développeur **Python** depuis 2019 et **Flutter Mobile** depuis 2024.  
-Je suis passionné par le développement d'applications modernes et le partage de mes connaissances.
+Je suis passionné par le développement d'applications modernes et le partage de mes connaissances. 
 
 ---
 
